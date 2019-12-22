@@ -12,3 +12,5 @@ My struggles/challenges (Programming)
 My struggles/challenges (Electrical)
 - Figuring out what position the button and where the current goes through
 - Arranging ground and 5V with jumper cables in the correct spot
+
+Video outcome: https://youtu.be/l2pxDIf_M_A
